@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Coding..
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on App development projects
-- 📫 How to reach me (Unreachable)
+- 📫 How to reach me (syedarabianusrat@gmail.com)
 
 <!---
 EnvironmentalEngineer1/EnvironmentalEngineer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
