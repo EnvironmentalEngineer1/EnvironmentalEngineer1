@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnvironmentalEngineer1
+- 👋 Hi, I’m @EnvironmentalEngineer
 - 👀 I’m interested in Programming and Coding..
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on App development projects
